@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mr-n1ck/"><img src="https://img.shields.io/badge/LinkedIn-Prince%20Gaur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:princegaur00001@gmail.com"><img src="https://img.shields.io/badge/Email-princegaur00001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:princegaur00001@gmail.com"><img src="https://img.shields.io/badge/Email--EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Mr-N1ck"><img src="https://img.shields.io/badge/GitHub-Mr--N1ck-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
