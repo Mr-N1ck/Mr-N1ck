@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+Security+Research+%7C+AI;Focused+on+building+and+understanding+secure+systems;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+Ai Automation+%7C+;Focused+on+building+and+understanding+secure+systems;Always+learning.+Always+building." />
 
 <br><br>
 
