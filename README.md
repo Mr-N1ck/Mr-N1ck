@@ -2,31 +2,18 @@
 
 # PRINCE GAUR
 
-### Cybersecurity • AI-Assisted Engineering • Prompt Engineering • Automation
+### Cybersecurity | Linux Administration | Web Penetration Testing | AI & Automation
 
-**Cybersecurity learner focused on practical security, technical problem-solving, and AI-powered workflows.**
+<p>
+  <a href="https://github.com/Mr-N1ck">
+    <img src="https://img.shields.io/badge/GitHub-Mr--N1ck-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/mr-n1ck/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prince%20Gaur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-<br>
-
-<a href="https://github.com/Mr-N1ck">
-  <img src="https://img.shields.io/badge/GitHub-Mr--N1ck-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mr-n1ck/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://tryhackme.com/">
-  <img src="https://img.shields.io/badge/TryHackMe-67%20Labs-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-</a>
-&nbsp;
-<a href="https://portswigger.net/web-security">
-  <img src="https://img.shields.io/badge/PortSwigger-123%20Labs-FF6633?style=for-the-badge" alt="PortSwigger"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Mr-N1ck&style=flat-square&color=00D4FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D9FF">
 
 </div>
 
@@ -34,62 +21,100 @@
 
 ## 👋 About Me
 
-Hello! I'm **Prince Gaur**, currently pursuing a **Cybersecurity course** and building my skills across cybersecurity, programming, web technologies, system administration, AI tools, and automation.
+Hi, I'm **Prince Gaur**.
 
-My cybersecurity foundation includes:
+I'm currently pursuing cybersecurity and building a practical foundation across **Linux administration, Windows administration, networking, web penetration testing, programming, AI tools, prompt engineering, and automation**.
 
-- Windows fundamentals and administration
-- Networking fundamentals
-- Linux administration
-- Python programming
-- HTML, CSS and JavaScript
-- PHP
-- Web Application Penetration Testing (WAPT)
-- Penetration testing methodologies
-- Practical cybersecurity labs
-- Security research and experimentation
+I enjoy understanding how systems work, identifying security weaknesses, experimenting with different technologies, and turning technical requirements into practical solutions.
 
-Alongside cybersecurity, I am developing skills in **AI tools, AI models, prompt engineering, AI-assisted development, and automation**.
+My current focus is:
 
-My goal is to combine **cybersecurity knowledge + programming + AI** to solve technical problems efficiently and build practical solutions.
+> **Cybersecurity + Systems + Web Security + Programming + AI + Automation**
 
 ---
 
-# 🧭 Professional Profile
+## 🔐 Cybersecurity
+
+My primary technical interests and hands-on areas include:
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👤 Personal
+### 🐧 Linux Administration
 
-**Name:** Prince Gaur
-
-**GitHub:** Mr-N1ck
-
-**Location:** Haryana, India
-
-**Primary Field:** Cybersecurity
-
-**Current Stage:** Cybersecurity Course
+- Linux system administration
+- Users and groups
+- File permissions
+- ACLs
+- Processes
+- Services and `systemctl`
+- SSH
+- Cron and scheduled tasks
+- Environment variables
+- PATH management
+- Filesystems
+- Linux networking
+- System troubleshooting
+- Linux security fundamentals
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎯 Professional Direction
+### 🌐 Web Penetration Testing
 
-**Cybersecurity**
+- Web Application Penetration Testing
+- Reconnaissance
+- Enumeration
+- Authentication testing
+- Authorization testing
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- CSRF
+- SSRF
+- IDOR
+- JWT security
+- OAuth concepts
+- Business logic vulnerabilities
+- Request / response analysis
+- Vulnerability validation
 
-**Security Research**
+</td>
+</tr>
 
-**AI-Assisted Engineering**
+<tr>
+<td width="50%" valign="top">
 
-**Prompt Engineering**
+### 🖥️ Windows Administration
 
-**Automation**
+- Windows administration
+- Users and groups
+- Processes
+- Services
+- Registry
+- Permissions
+- PowerShell
+- System configuration
+- Windows security fundamentals
+- Troubleshooting
 
-**Technical Problem Solving**
+</td>
+
+<td width="50%" valign="top">
+
+### 🌍 Networking & Security
+
+- Networking fundamentals
+- TCP/IP
+- Network protocols
+- Network enumeration
+- Reconnaissance
+- Packet analysis
+- Wireshark
+- Nmap
+- PCAP analysis
+- Network security fundamentals
 
 </td>
 </tr>
@@ -97,84 +122,323 @@ My goal is to combine **cybersecurity knowledge + programming + AI** to solve te
 
 ---
 
-# 🔐 Cybersecurity Foundation
+## 🧪 Hands-On Security Practice
 
-My current cybersecurity foundation spans systems, networking, web security, and penetration testing.
-
-### Systems
-
-| Area | Knowledge |
-|---|---|
-| 🐧 Linux | Administration, command line, system fundamentals |
-| 🪟 Windows | Administration and system fundamentals |
-| 🌐 Networking | Networking concepts, protocols and security fundamentals |
-
-### Web Security
-
-| Area | Knowledge |
-|---|---|
-| 🌐 Web Application Security | WAPT fundamentals and practical testing |
-| 🔎 Reconnaissance | Enumeration and information gathering |
-| 🧪 Vulnerability Testing | Practical web-security testing |
-| 🛡️ Security Assessment | Identifying and understanding security weaknesses |
-
-### Programming & Web Technologies
-
-| Technology | Focus |
-|---|---|
-| 🐍 Python | Programming, scripting and automation |
-| JavaScript | Web development and scripting |
-| PHP | Server-side web development |
-| HTML | Web structure |
-| CSS | Web styling |
-| Bash | Linux command-line automation |
-
----
-
-# 🧪 Hands-On Security Practice
-
-I believe cybersecurity skills should be supported by **practical experience**, not only theory.
+I focus heavily on practical learning through security labs and controlled environments.
 
 <div align="center">
 
 ### TryHackMe
 
-<img src="https://img.shields.io/badge/67%20Labs-Completed-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/67%20Labs-Completed-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 ### PortSwigger Web Security Academy
 
-<img src="https://img.shields.io/badge/123%20Labs-Completed-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/123%20Labs-Completed-FF6633?style=for-the-badge">
 
 </div>
 
 <br>
 
-My hands-on practice has helped me develop familiarity with:
+### Practical Areas
 
 ```text
 Web Security
-    ├── Vulnerability Identification
-    ├── Web Application Testing
-    ├── Authentication Testing
-    ├── Request / Response Analysis
-    └── Security Research
-
-Networking
-    ├── Network Fundamentals
-    ├── Reconnaissance
-    ├── Enumeration
-    └── Traffic Understanding
+├── Reconnaissance
+├── Enumeration
+├── Authentication
+├── Authorization
+├── Injection
+├── Client-Side Security
+├── Server-Side Security
+└── Business Logic
 
 Linux
-    ├── System Administration
-    ├── Command Line
-    ├── Processes
-    └── Security Fundamentals
+├── System Administration
+├── Users & Groups
+├── Permissions
+├── Processes
+├── Services
+├── SSH
+└── Networking
 
-Pentesting
-    ├── Reconnaissance
-    ├── Enumeration
-    ├── Vulnerability Analysis
-    └── Controlled Testing
+Networking
+├── Network Fundamentals
+├── Protocols
+├── Enumeration
+├── Packet Analysis
+└── Network Security
+
+Security Research
+├── Vulnerability Analysis
+├── Security Testing
+├── Tool Usage
+└── Technical Investigation
+💻 Programming & Web Technologies
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,js,php,html,css,bash&theme=dark"> </div> <br>
+Technology	Area
+🐍 Python	Programming, scripting, security tooling & automation
+🟨 JavaScript	Web development & security testing
+🐘 PHP	Web development & security testing
+🌐 HTML	Web application structure
+🎨 CSS	Front-end development
+🐚 Bash	Linux scripting & automation
+🤖 AI, Prompt Engineering & Automation
+
+I'm also developing practical skills in AI-assisted development, prompt engineering, AI tools, and automation.
+
+AI Focus
+Prompt Engineering
+Context Engineering
+AI-assisted coding
+AI-assisted cybersecurity research
+AI-assisted reconnaissance workflows
+Code analysis
+Debugging with AI
+Technical research
+Automated documentation
+Workflow automation
+Multi-model experimentation
+AI-powered security workflows
+AI Models & Tools
+GPT
+Gemini
+Claude
+Llama
+Mistral
+
+I use AI as a technical productivity tool, while validating important outputs through testing, documentation, and independent reasoning.
+
+🧠 My Technical Workflow
+
+When working on a technical problem, I follow a structured process:
+
+                    ┌─────────────────┐
+                    │   REQUIREMENT   │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │    RESEARCH     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     ANALYZE     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │      PLAN       │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │   BUILD / TEST  │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │    VALIDATE     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     IMPROVE     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     DELIVER     │
+                    └─────────────────┘
+AI-Assisted Workflow
+Technical Requirement
+        ↓
+Understand the Problem
+        ↓
+Break the Problem Down
+        ↓
+Research
+        ↓
+Create Structured Prompt
+        ↓
+Select AI Model / Tool
+        ↓
+Generate / Analyze
+        ↓
+Implement
+        ↓
+Test
+        ↓
+Validate
+        ↓
+Refine
+        ↓
+Final Solution
+🛠️ Core Skills
+<div align="center">
+Category	Skills
+🔐 Cybersecurity	WAPT, Pentesting, Reconnaissance, Enumeration, Vulnerability Analysis
+🌐 Web Security	SQLi, XSS, CSRF, SSRF, IDOR, JWT, OAuth, Authentication, Authorization
+🐧 Linux	Administration, Permissions, ACLs, Processes, Services, SSH, Bash
+🖥️ Windows	Administration, PowerShell, Registry, Services, Processes
+🌍 Networking	TCP/IP, Protocols, Nmap, Wireshark, PCAP Analysis
+💻 Programming	Python, JavaScript, PHP, HTML, CSS, Bash
+🤖 AI	Prompt Engineering, AI Models, AI Tools, AI-assisted Development
+⚙️ Automation	Python scripting, Bash scripting, AI-assisted workflows
+</div>
+🔎 Security Mindset
+
+My approach to cybersecurity is based on:
+
+Understand the System
+        ↓
+Identify the Attack Surface
+        ↓
+Analyze the Technology
+        ↓
+Find Potential Weaknesses
+        ↓
+Test in an Authorized Environment
+        ↓
+Validate the Finding
+        ↓
+Document the Result
+        ↓
+Understand the Fix
+
+I aim to understand both how a vulnerability can be discovered and how the underlying system can be secured.
+
+📚 Currently Learning
+Cybersecurity
+Advanced Web Application Security
+Penetration Testing
+Network Security
+Linux Security
+Security Research
+Security Tool Development
+AI
+Advanced Prompt Engineering
+Context Engineering
+AI-assisted Development
+AI Automation
+AI-powered Security Workflows
+Multi-model AI workflows
+Engineering
+Python
+JavaScript
+Linux
+Bash
+Web Technologies
+Automation
+🎯 Career Direction
+
+I'm building toward a career in cybersecurity, while developing the ability to use modern AI technologies to improve research, development, automation, and problem solving.
+
+I'm particularly interested in:
+
+Cybersecurity
+      │
+      ├── Web Security
+      ├── Penetration Testing
+      ├── Security Research
+      ├── Network Security
+      └── Security Tooling
+      │
+      +
+      │
+      ├── AI
+      ├── Prompt Engineering
+      ├── Automation
+      └── AI-assisted Development
+
+My objective is to progress from:
+
+Learning → Practicing → Building → Testing → Solving Real Problems
+
+🚀 What I Bring
+🔐 Security Foundation
+
+Practical exposure to Linux, Windows, networking, web security, penetration testing, and security research.
+
+💻 Development Foundation
+
+Ability to work with Python, JavaScript, PHP, HTML, CSS, and Bash.
+
+🤖 AI Capability
+
+Experience exploring AI models and tools for technical research, development, security analysis, prompting, and automation.
+
+🧠 Problem Solving
+
+A structured approach to understanding requirements, researching solutions, testing implementations, and improving results.
+
+🤝 Open to Learning & Opportunities
+
+I'm interested in real-world technical tasks, cybersecurity projects, security research, automation, AI-assisted development, internships, and opportunities where I can continue developing practical skills.
+
+I'm especially interested in environments where I can:
+
+Receive a Requirement
+        ↓
+Understand It
+        ↓
+Research It
+        ↓
+Build a Solution
+        ↓
+Test It
+        ↓
+Improve It
+        ↓
+Deliver It
+📈 My Development Philosophy
+<div align="center">
+LEARN
+
+Understand the fundamentals.
+
+↓
+
+PRACTICE
+
+Work with real labs and controlled environments.
+
+↓
+
+BUILD
+
+Turn knowledge into practical solutions.
+
+↓
+
+TEST
+
+Verify that the solution actually works.
+
+↓
+
+IMPROVE
+
+Learn from failures and refine the approach.
+
+</div>
+🌐 Connect With Me
+<div align="center"> <a href="https://github.com/Mr-N1ck"> <img src="https://img.shields.io/badge/GitHub-Mr--N1ck-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
+
+  
+
+<a href="https://www.linkedin.com/in/mr-n1ck/"> <img src="https://img.shields.io/badge/LinkedIn-Prince%20Gaur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+
+<br><br>
+
+Cybersecurity • Linux • Web Security • AI • Automation
+<br>
+
+Learn. Build. Test. Improve.
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00D9FF,50:0B3B4A,100:0F172A" width="100%"> </div> ```
