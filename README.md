@@ -1,69 +1,200 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,50:0b2d4a,100:00c2ff&height=210&section=header&text=PRINCE%20GAUR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Professional%20%7C%20Security%20Researcher&descAlignY=60&descSize=17&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050B14,45:0B2035,75:0A4A66,100:00D4FF&text=PRINCE%20GAUR&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20AI-ASSISTED%20SECURITY%20%7C%20PROMPT%20ENGINEERING&descAlignY=61&descSize=15&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+Ai Automation+%7C+;Focused+on+building+and+understanding+secure+systems;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Cybersecurity+Learner+%7C+Security+Researcher;AI-Assisted+Security+%7C+Prompt+Engineering;Learning+%E2%80%A2+Building+%E2%80%A2+Testing+%E2%80%A2+Automating;Turning+technical+problems+into+practical+solutions" alt="Typing animation"/>
 
 <br><br>
 
 <a href="https://github.com/Mr-N1ck">
-<img src="https://img.shields.io/badge/GitHub-Mr--N1ck-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Mr--N1ck-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mr-n1ck/">
-<img src="https://img.shields.io/badge/LinkedIn-Mr--N1ck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/">
+<img src="https://img.shields.io/badge/TryHackMe-67%20Labs-111827?style=for-the-badge&logo=tryhackme&logoColor=FF0000"/>
+</a>
+
+<a href="https://portswigger.net/web-security">
+<img src="https://img.shields.io/badge/PortSwigger-123%20Labs-111827?style=for-the-badge&logoColor=FF6633"/>
 </a>
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=Mr-N1ck&style=flat-square&color=00D4FF&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
 
-## `> about_me`
-
-Hi, I'm **Prince Gaur**, a cybersecurity-focused learner and security researcher from **Haryana, India**.
-
-My primary interest is cybersecurity, with a focus on understanding how systems, networks, and applications work from both offensive and defensive perspectives.
-
-I enjoy learning through practical experimentation, security research, hands-on labs, and building things from scratch.
-
-I'm particularly interested in the intersection of **Cybersecurity + Software Engineering + Artificial Intelligence**.
-
----
-
-## `> personal_details`
+# `01 / PROFILE`
 
 <div align="center">
 
-| | Details |
-|:---:|:---|
-| 👤 | **Name:** Prince Gaur |
-| 🏷️ | **Alias:** Mr-N1ck |
-| 📍 | **Location:** Haryana, India |
-| 🎯 | **Primary Field:** Cybersecurity |
-| 🔐 | **Specialization:** Security Research & Security Engineering |
-| 🤖 | **Additional Interest:** AI & Automation |
-| 💻 | **Role:** Cybersecurity Learner / Security Researcher |
-| 🌱 | **Currently:** Expanding practical cybersecurity expertise |
-| 🚀 | **Goal:** Build a professional career in cybersecurity |
+### **PRINCE GAUR**
+
+**Cybersecurity Learner · Security Researcher · AI-Assisted Security**
+
+</div>
+
+I am **Prince Gaur**, currently pursuing a **Cybersecurity course** with a strong interest in practical security testing, security research, automation, and the application of modern AI tools to technical problem-solving.
+
+My foundation covers **Windows, Networking, Linux Administration, Python, HTML, CSS, JavaScript, PHP, Web Application Penetration Testing, and practical cybersecurity labs**.
+
+Alongside cybersecurity, I am developing skills in **AI-assisted workflows, prompt engineering, AI models, and automation** — with the goal of using AI as a practical engineering tool rather than simply as a chatbot.
+
+I am particularly interested in opportunities where I can receive **real technical tasks or projects, analyze the problem, research solutions, use appropriate AI models/tools, build or test the solution, and deliver a working result.**
+
+---
+
+# `02 / WHAT I BRING`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity
+
+- Web Application Penetration Testing
+- Web Security Fundamentals
+- Network Security Fundamentals
+- Linux Administration
+- Windows Fundamentals
+- Reconnaissance & Enumeration
+- Security Testing
+- Practical Pentesting Labs
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation
+
+- Prompt Engineering
+- AI-assisted technical research
+- AI model experimentation
+- AI-assisted coding
+- Security workflow automation
+- Problem decomposition with LLMs
+- AI-assisted documentation
+- Tool-assisted technical workflows
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Development
+
+- Python
+- JavaScript
+- PHP
+- HTML
+- CSS
+- Linux / Bash
+- Security-focused scripting
+- Web technologies
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Working Approach
+
+- Understand the problem
+- Research before implementation
+- Use AI strategically
+- Validate generated results
+- Build practical solutions
+- Test the implementation
+- Document the outcome
+
+</td>
+</tr>
+</table>
+
+---
+
+# `03 / SECURITY FOUNDATION`
+
+<div align="center">
+
+| Area | Experience / Learning |
+|:---|:---|
+| 🌐 Web Application Security | WAPT · Web Security Testing |
+| 🐧 Linux | Administration · Command Line · Security Fundamentals |
+| 🪟 Windows | Administration · Windows Security Fundamentals |
+| 🌐 Networking | Networking Fundamentals · Security Concepts |
+| 🐍 Python | Scripting · Automation · Security Tooling |
+| 🌎 Web Development | HTML · CSS · JavaScript · PHP |
+| 🔎 Pentesting | Practical Labs · Recon · Enumeration · Web Testing |
+| 🧪 Security Labs | TryHackMe · PortSwigger Web Security Academy |
 
 </div>
 
 ---
 
-## `> professional_interests`
+# `04 / HANDS-ON PRACTICE`
+
+<div align="center">
+
+### TryHackMe
+
+<img src="https://img.shields.io/badge/67%20Labs-Completed-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+
+<br><br>
+
+### PortSwigger Web Security Academy
+
+<img src="https://img.shields.io/badge/123%20Labs-Completed-FF6633?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+My learning approach is strongly hands-on. I use practical labs to strengthen my understanding of web security, networking, Linux, enumeration, vulnerability analysis, and penetration-testing methodologies.
+
+---
+
+# `05 / AI × CYBERSECURITY`
+
+<div align="center">
 
 ```text
-Cybersecurity
-│
-├── Offensive Security
-├── Defensive Security
-├── Web Application Security
-├── Network Security
-├── Digital Forensics
-├── Security Research
-├── Security Tool Development
-└── AI-Assisted Security
+                    TECHNICAL PROBLEM
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ Problem Analysis│
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ Research +      │
+                  │ Prompt Design   │
+                  └────────┬────────┘
+                           │
+                           ▼
+              ┌─────────────────────────┐
+              │     AI MODEL / TOOLS    │
+              │                         │
+              │  Generate • Analyze     │
+              │  Explain • Refactor     │
+              │  Research • Automate    │
+              └────────────┬────────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ Human Validation│
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ Working Solution│
+                  └─────────────────┘
