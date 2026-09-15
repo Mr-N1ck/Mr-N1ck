@@ -32,7 +32,7 @@ Cybersecurity researcher focused on offensive security, hands-on tool developmen
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,go,js,php,html,css,bash,cs&theme=dark)](https://github.com/Mr-N1ck)
+[![Skills](https://skillicons.dev/icons?i=python,js,php,html,css,bash&theme=dark)](https://github.com/Mr-N1ck)
 [![Skills](https://skillicons.dev/icons?i=linux,kali,windows,git,github,vscode&theme=dark)](https://github.com/Mr-N1ck)
 
 </div>
@@ -108,20 +108,6 @@ SQLi · XSS · CSRF · SSRF · JWT · OAuth<br/>Business Logic · Deserializatio
 <div align="center">
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Mr-N1ck&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/Mr-N1ck)
-
-</div>
-
----
-
-### Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="96%"/>
-</picture>
 
 </div>
 
