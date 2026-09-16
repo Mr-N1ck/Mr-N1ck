@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛡️ Prince Gaur
-### **Cybersecurity Professional &nbsp;|&nbsp; WAPT &nbsp;|&nbsp; Offensive & Defensive Tool Developer**
+### **Cybersecurity Professional &nbsp;|&nbsp; WAPT &nbsp;|&nbsp; Digital Forensics &nbsp;|&nbsp; Offensive & Defensive Tool Developer**
 
 <p align="center">
   <a href="https://linkedin.com/in/mr-n1ck/"><img src="https://img.shields.io/badge/LinkedIn-Prince%20Gaur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,10 +18,10 @@
 
 ## 👨‍💻 Professional Overview
 
-Hands-on **Cybersecurity Professional**, **Web Application Penetration Tester (WAPT)**, and **Offensive & Defensive Security Tool Developer** with practical experience spanning vulnerability assessment, adversary emulation, and threat detection.
+Hands-on **Cybersecurity Professional**, **Web Application Penetration Tester (WAPT)**, and **Security Tool Developer** with practical experience spanning vulnerability assessment, adversary emulation, and **Digital Forensics & Incident Response (DFIR)**.
 
 - 🔴 **Offensive Capabilities:** Web application penetration testing, OWASP Top 10 exploitation, custom payload engineering, stealth persistence mechanisms, reverse tunneling protocols, and network protocol manipulation.
-- 🔵 **Defensive Capabilities:** Behavioral threat detection, File Integrity Monitoring (FIM), Windows Registry forensics, real-time packet inspection, network traffic analysis, and incident triage.
+- 🔵 **Defensive & Digital Forensics:** Host & memory forensics, Windows Registry analysis, Linux artifact investigation, File Integrity Monitoring (FIM), real-time packet inspection, network traffic analysis, and incident triage.
 
 ---
 
@@ -46,7 +46,7 @@ Hands-on **Cybersecurity Professional**, **Web Application Penetration Tester (W
 | :--- | :--- |
 | **🌐 Web Application Penetration Testing** | Full-scope WAPT, OWASP Top 10, Request Tampering, Session Management, Access Control Flaws, API Security Testing, Burp Suite Pro Automation |
 | **⚔️ Offensive Security & Red Teaming** | Adversary Emulation, Persistence Techniques, Reverse Tunneling, Evasion Research, Network Pivoting, MITM & ARP Manipulation |
-| **🛡️ Defensive Security & DFIR** | Behavioral Threat Detection, File Integrity Monitoring (FIM), Windows Registry Forensics, Incident Triage, System Hardening |
+| **🔍 Digital Forensics & Incident Response (DFIR)** | Host & Artifact Analysis, Windows Registry Forensics, Linux System Investigation, File Integrity Monitoring (FIM), Incident Triage, System Hardening |
 | **📡 Network Forensics & Protocol Analysis** | Packet Capture (PCAP) Analysis, Host & Port Enumeration, Protocol Parsing (TCP/IP, DNS, WebSockets), Traffic Anomaly Detection |
 
 </div>
@@ -57,9 +57,10 @@ Hands-on **Cybersecurity Professional**, **Web Application Penetration Tester (W
 
 <div align="center">
 
-### 🔒 Security, WAPT & Analysis
+### 🔒 Security, WAPT & Forensics
 <p>
   <img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Digital_Forensics-DFIR-4B0082?style=for-the-badge&logo=target&logoColor=white" alt="Digital Forensics" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
@@ -72,6 +73,7 @@ Hands-on **Cybersecurity Professional**, **Web Application Penetration Tester (W
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/DuckyScript-FFD700?style=for-the-badge&logo=usb&logoColor=black" alt="DuckyScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
@@ -81,10 +83,12 @@ Hands-on **Cybersecurity Professional**, **Web Application Penetration Tester (W
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Windows_Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Internals" />
+  <img src="https://img.shields.io/badge/Flipper_Zero-FF8200?style=for-the-badge&logo=flipperzero&logoColor=white" alt="Flipper Zero" />
   <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN" />
   <img src="https://img.shields.io/badge/Tor_Network-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
 
 </div>
 
